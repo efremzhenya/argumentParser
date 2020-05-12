@@ -1,0 +1,11 @@
+C:\Users\robusx\source\repos\EnvironmentParser\EnvironmentParser\bin\Debug\netcoreapp3.1\EnvironmentParser.exe
+C:\Users\robusx\source\repos\EnvironmentParser\EnvironmentParser\bin\Debug\netcoreapp3.1\EnvironmentParser.deps.json
+C:\Users\robusx\source\repos\EnvironmentParser\EnvironmentParser\bin\Debug\netcoreapp3.1\EnvironmentParser.runtimeconfig.json
+C:\Users\robusx\source\repos\EnvironmentParser\EnvironmentParser\bin\Debug\netcoreapp3.1\EnvironmentParser.runtimeconfig.dev.json
+C:\Users\robusx\source\repos\EnvironmentParser\EnvironmentParser\bin\Debug\netcoreapp3.1\EnvironmentParser.dll
+C:\Users\robusx\source\repos\EnvironmentParser\EnvironmentParser\bin\Debug\netcoreapp3.1\EnvironmentParser.pdb
+C:\Users\robusx\source\repos\EnvironmentParser\EnvironmentParser\obj\Debug\netcoreapp3.1\EnvironmentParser.csprojAssemblyReference.cache
+C:\Users\robusx\source\repos\EnvironmentParser\EnvironmentParser\obj\Debug\netcoreapp3.1\EnvironmentParser.AssemblyInfoInputs.cache
+C:\Users\robusx\source\repos\EnvironmentParser\EnvironmentParser\obj\Debug\netcoreapp3.1\EnvironmentParser.AssemblyInfo.cs
+C:\Users\robusx\source\repos\EnvironmentParser\EnvironmentParser\obj\Debug\netcoreapp3.1\EnvironmentParser.dll
+C:\Users\robusx\source\repos\EnvironmentParser\EnvironmentParser\obj\Debug\netcoreapp3.1\EnvironmentParser.pdb
