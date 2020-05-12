@@ -7,11 +7,11 @@ namespace EnvironmentParser
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(parseArgument("asfaslhkahs {env.DOCKER_HOST} jkfhkjha {env.SomeVariable} skjh{env.USERNAME}faj"));
+            Console.WriteLine(parseArgument(null));
         }
         public static string parseArgument(string input) 
         {
-            return string.IsNullOrEmpty(input) ? "" :
+            return (input is null) ? input :
                 Regex.Replace(input, @"{env\.\w+}", new MatchEvaluator(GetEnvironmentValue));
         }
 
